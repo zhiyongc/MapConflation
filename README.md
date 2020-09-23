@@ -1,4 +1,4 @@
-# MapConflation
+# Map Conflation
 > Code for Establishing Multisource Data-Integration Framework for Transportation Data Analytics
 
 This is a repo for demonstrating the map conflation algorithm in Reference [1]. The paper proposed a transportation data integration framework. Each data source can be integrated by mapping the data's geospatial information to a roadway referencing layer. The following figure shows the framework.
