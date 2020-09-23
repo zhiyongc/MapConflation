@@ -9,7 +9,7 @@ The referencing layer is the WSDOT 24K map ([link](https://www.wsdot.wa.gov/maps
 
 <p align="left"><img width="100%" src="img/conflation.png"/></p>
 
-The detailed steps for preparing the datasets and runing the algorithm is described in the `Jupyter Notebook` file. 
+The detailed steps for preparing the datasets and runing the algorithm is described in the `Conflating HERE and WSDOT layers.ipynb` file. 
 
 ## Reference
 [1] Cui, Z., Henrickson, K., Biancardo, S.A., Pu, Z. and Wang, Y., 2020. Establishing Multisource Data-Integration Framework for Transportation Data Analytics. Journal of Transportation Engineering, Part A: Systems, 146(5), p.04020024. \[[link](https://ascelibrary.org/doi/full/10.1061/JTEPBS.0000331)\]
